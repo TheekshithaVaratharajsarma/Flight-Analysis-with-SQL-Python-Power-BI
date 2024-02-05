@@ -1,6 +1,8 @@
 # Flight-Analysis-with-SQL-Python-Power-BI
 The project analyses the domestic flights in the United STtes in the year 2015. It analyses the flights from each airports and airlines in all states of the USA in 2015. Due to the very large nature of this data from U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics, only a part of the data has been used (from january 1st to march 11th) with over 400 000 observations. 
 
+Data : https://www.kaggle.com/datasets/usdot/flight-delays?ref=hackernoon.com
+
 ### Tasks that have been performed
 - Creating a relational database in MySQL
 - Analysing the data and answering questions using SQL queries
